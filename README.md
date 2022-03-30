@@ -1,4 +1,4 @@
-# Distributed H2 Controller Synthesis for Multi-Agent Systems with Stochastic Packet Loss
+# Event-Triggered State-Estimation l2-Optimal Formation Control for Agents Modeled as LPV Systems 
 
 [![DOI]
 
