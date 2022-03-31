@@ -1,0 +1,35 @@
+%------
+
+% Project: Event-Triggered State-Estimation l2-Optimal Formation Control for Agents Modeled as LPV System and Link
+
+% Copyright:
+
+% License:
+
+% References:
+
+% Authors: Gerald Gebhardt, Hamideh Saadabadi and Herbert Werner
+
+%------
+
+ 
+
+%---------------------------------------------------------------------------------------------
+
+% For Paper,
+
+% "Event-Triggered State-Estimation l2-Optimal Formation Control for Agents Modeled as LPV System"
+
+% by Gerald Gebhardt, Hamideh Saadabadi and Herbert Werner
+
+% Copyright (c) Institute of Control Systems, Hamburg University of Technology. All rights reserved.
+
+% Licensed under the GPLv3. See LICENSE in the project root for license information.
+
+%
+
+% IEEE Conference on Decision and Control, 2022."
+
+% Author(s): Gerald Gebhardt,
+
+%--------------------------------------------------------------------------------------------
