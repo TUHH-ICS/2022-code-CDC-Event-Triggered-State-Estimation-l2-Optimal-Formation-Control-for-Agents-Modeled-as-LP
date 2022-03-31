@@ -1,6 +1,10 @@
 # Event-Triggered State-Estimation l2-Optimal Formation Control for Agents Modeled as LPV Systems 
 
-[![DOI]
+
+
+[![DOI](https://zenodo.org/badge/475836246.svg)](https://zenodo.org/badge/latestdoi/475836246)
+
+
 
 ## General
 
