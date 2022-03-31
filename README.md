@@ -2,16 +2,14 @@
 
 [![DOI]
 
-## General
-
-This repository contains an implementation of the algorithms and simulations described in the paper
-
 >Gerald Gebhardt, Hamideh Saadabadi and Herbert Werner, "Event-Triggered State-Estimation $\ell_2$-Optimal Formation Control 
 for Agents Modeled as LPV Systems", submitted to CDC, 2022.
 
 It may be used to recreate and validate the figures from the paper.
 To do so, run either of the two main entry points in the repository, the scripts `validate_bernoulli.m`, and `evaluate_sinr.m`.
 Be advised that especially the latter as an extensive runtime of about a day.
+It can be used to recreate and validate the figures from the paper.
+To do so, run the file `Main.m`.
 The raw data used in the figures in the paper is available in the subdirectory `figures`.
 
 ## Simulation of Multi-Agent Systems
@@ -24,7 +22,6 @@ Steps to do so are described [here](https://github.com/TUHH-ICS/MAS-Simulation#u
 ## Prerequisites
 
 To run the scripts in this repository, you will need a working copy of [*Yalmip*](https://yalmip.github.io/) together with a suitable SDP solver in your *Matlab* path.
-
 The code in this repository was tested in the following environment:
 
 * *Windows 10* Version 20H2
@@ -35,3 +32,5 @@ The *Matlab* [`parfor`](https://de.mathworks.com/help/parallel-computing/parfor.
 *Matlab* should automatically detect if that toolbox is not available and run the iterations sequentially in that case.
 However, this will drastically prolong the runtime of the scripts.
 You may want to reduce the number of sampling points for the figures or run the calculations for smaller networks.
+* *Matlab* 2020b
+* *Yalmip* 31-March-2021
